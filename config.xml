@@ -17,4 +17,8 @@
       Kameo
   </author>
 
+  <allow-navigation href="*" />
+  <allow-intent href="*" />
+  <access origin="*" /> <!-- Required for iOS9 -->
+
 </widget>
