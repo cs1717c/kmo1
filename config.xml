@@ -24,4 +24,10 @@
    <allow-intent href="http://*/*" />
    <allow-intent href="https://*/*" />
    <allow-navigation href="*" />
+
+   <preference name="webviewbounce" value="false" />
+   <preference name="DisallowOverscroll" value="true" />
+    <preference name="UIWebViewBounce" value="false" />
+
+
 </widget>
